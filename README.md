@@ -116,7 +116,7 @@ retail-sales-analysis/
     └── 04_business_analysis.sql
 ```
 
-*Note: Include the dataset only if its license permits redistribution. Otherwise, provide instructions for obtaining it.*
+
 
 ## 🚀 How to Run the Project
 
@@ -164,11 +164,7 @@ Through this project, I practiced:
 - Analyze revenue, order volume, and average transaction value together.
 - Automate data-quality checks and reporting.
 
-## 👨‍💻 Author
 
-**Pramveer Kumar**
-
-B.Tech — Computer Science and Engineering (Artificial Intelligence)
 
 Interested in Data Analytics, Data Science, and Machine Learning.
 
